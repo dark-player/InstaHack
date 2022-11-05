@@ -32,7 +32,7 @@ echo '
 printf \n
 printf "Welcome to Insta Hack"
 printf "\n" 
-printf "                \e[101m\e[1;77m  >>  Script By Roony << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Lalit Wagh << \e[0m\n"
 printf "\n"
 echo
 
